@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('pico', function () {
     return view('welcome');
 });
